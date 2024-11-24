@@ -316,10 +316,10 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: home
-      author_profile: true
+      author_profile: False
       read_time: true
       comments: # true
       share: true
