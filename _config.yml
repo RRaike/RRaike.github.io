@@ -120,6 +120,9 @@ author:
   location         : "Somewhere"
   email            :
   links:
+    - label: "LinkedIn"
+      icon: "fa-brands fa-linkedin"
+      url: "www.linkedin.com/in/roelraike"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
@@ -318,9 +321,9 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: splash
-      author_profile: False
-      read_time: true
+      layout: single
+      author_profile: true
+      read_time: false
       comments: # true
-      share: true
+      share: false
       related: true
