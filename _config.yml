@@ -121,7 +121,7 @@ author:
   email            :
   links:
     - label: "LinkedIn"
-      icon: "fa-brands fa-linkedin"
+      icon: "fa-brands fa-linkedin-in" #"fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/roelraike"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
