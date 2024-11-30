@@ -1,6 +1,7 @@
 ---
 title: "About"
 permalink: /
+hidden: true
 ---
 
 
