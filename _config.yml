@@ -328,3 +328,13 @@ defaults:
       comments: # true
       share: false
       related: true
+- scope:
+      path: ""
+      type: splash
+    values:
+      layout: splash
+      author_profile: false
+      read_time: false
+      comments: # true
+      share: false
+      related: true
