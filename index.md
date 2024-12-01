@@ -15,3 +15,5 @@ feature_row:
     title: "Placeholder 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
+
+{% include feature_row %}
