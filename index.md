@@ -7,7 +7,7 @@ header:
 excerpt: "Just Testing"
 feature_row:
   - image_path: /assets/Images/Splash/AboutMeThumbnail-3x2.jpg
-    title: <a href="https://rraike.github.io/about/">link text</a>
+    title: <a href="https://rraike.github.io/about/">About Me</a>
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/Images/Splash/CVThumbnail-3x2.jpg
     title: "Placeholder 2"
