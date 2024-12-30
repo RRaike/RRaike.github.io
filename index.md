@@ -10,10 +10,10 @@ feature_row:
     title: <a href="https://rraike.github.io/about/">About Me</a>
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/Images/Splash/CVThumbnail-3x2.jpg
-    title: "Placeholder 2"
+    title: <a href="https://rraike.github.io/CV/">Curriculum Vitae</a>
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  # - image_path: /assets/Images/AboutMeThumbnail.jpg
-  #  title: "Placeholder 3"
-  #  excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/Images/ContactThumbnail-3x2.jpg
+    title: <a href="https://rraike.github.io/contact/">Contact</a>
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 {% include feature_row %}
