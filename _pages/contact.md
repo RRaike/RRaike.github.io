@@ -1,7 +1,6 @@
 ---
-layout: single
 title: "Contact"
-permalink: /cv/
+permalink: /contact/
 ---
 
 {% include contact.html %}
