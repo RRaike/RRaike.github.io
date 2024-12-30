@@ -12,8 +12,8 @@ feature_row:
   - image_path: /assets/Images/Splash/CVThumbnail-3x2.jpg
     title: "Placeholder 2"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/Images/AboutMeThumbnail.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  # - image_path: /assets/Images/AboutMeThumbnail.jpg
+  #  title: "Placeholder 3"
+  #  excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 {% include feature_row %}
