@@ -1,10 +1,10 @@
 ---
-title: 'Under Construction'
+title: 'Roel Raike'
 layout: splash
 permalink: /
 header:
   overlay_image: /assets/Images/Splash/SplashBanner.jpg
-excerpt: "Just Testing"
+excerpt: "A small personal website"
 feature_row:
   - image_path: /assets/Images/Splash/AboutMeThumbnail-3x2.jpg
     title: <a href="https://rraike.github.io/about/">About Me</a>
