@@ -1,6 +1,8 @@
 ---
-title: "Contact"
+title: ""
 permalink: /contact/
 ---
 
-{% include contact.html %}
+Hey,
+
+Looking to get into touch? The icons on the left will guide you to my details!
