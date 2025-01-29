@@ -124,7 +124,7 @@ author:
       icon: "fa-brands fa-linkedin-in" #"fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/roelraike"
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fa-regular fa-envelope"
       url: "mailto:roel.raike@epfl.ch"
     - label: "Website"
       icon: "fas fa-fw fa-link"
