@@ -117,7 +117,7 @@ author:
   name             : "Roel Raike"
   avatar           : /assets/Images/Profile/ProfilePicture.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Assistant-doctorant in LCMD @EPFL \n Science Enthousiast \n Coffee addict"
-  location         : "Lausanne, Switzerland"
+  location         : <a href="https://maps.app.goo.gl/LGfwgLCNFG4m1fun8">"EPFL, Switzerland "</a>
   email            :
   links:
     - label: "LinkedIn"
@@ -125,7 +125,7 @@ author:
       url: "https://www.linkedin.com/in/roelraike"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:roel.raike@epfl.chou"
+      url: "mailto:roel.raike@epfl.ch"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
