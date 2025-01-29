@@ -116,8 +116,8 @@ analytics:
 author:
   name             : "Roel Raike"
   avatar           : /assets/Images/Profile/ProfilePicture.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Assistant-doctorant in LCMD @EPFL \n Science Enthousiast \n Coffee addict"
-  location         : <a href="https://maps.app.goo.gl/LGfwgLCNFG4m1fun8">"EPFL, Switzerland "</a>
+  bio              : "Assistant-doctorant in LCMD @EPFL <br> Science Enthousiast <br> Coffee addict"
+  location         : Lausanne, Switzerland
   email            :
   links:
     - label: "LinkedIn"
