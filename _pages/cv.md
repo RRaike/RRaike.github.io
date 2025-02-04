@@ -5,14 +5,12 @@ classes: wide
 ---
 
 ## Education
-**Master of Science in Chemical Engineering, GPA 4.0, 2022 - 2023, University of Delaware**
-<p style="margin-left: 40px; margin-top: -0.2em; line-height: 0">Tester, Summa Cum Laude</p> 
+**M.Sc. in Chemical Engineering, 2022 - 2023 @ University of Delaware**
+<p style="margin-left: 40px; margin-top: -2em; line-height: 0">Test, GPA 4.0</p> 
 - Thesis: Microkinetic modeling of n-butane hydrogenolysis on Ru(0001) in the Vlachos group
 
-#### Master of Science, Chemical Engineering, 2021 - 2023, KU Leuven
+#### M.Sc. in Chemical Engineering, 2021 - 2023 @ KU Leuven
 Magna Cum Laude
 - 
-
-
-#### Bachelor of Science, Engineering Science 
+#### B.Sc. in Engineering Science, 2019 - 2021 @ KU Leuven 
     Cum Laude
