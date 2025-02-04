@@ -5,7 +5,7 @@ classes: wide
 ---
 
 ## Education
-#### MSc in Chemical Engineering @ University of Delaware, : 2023 - 2024
+#### MSc in Chemical Engineering @ University of Delaware, 2023 - 2024
 - GPA 4.0
 - Thesis: Microkinetic modeling of n-butane hydrogenolysis on Ru(0001) in the Vlachos group
 - Dual degree with the KU Leuven
@@ -20,8 +20,8 @@ classes: wide
 - Thesis: The minimization of the crystal size distribution of paracetamol in a sonicated, continuous microreactor in the Kuhn group
 
 ## Experience
-#### Research assistant at CREaS in the Vermeire group
-- Curating database to train a graph neural network for the prediction of phase change nethalphy
+#### Research assistant at CREaS in the Vermeire group @ KU Leuven, 
+- Curating database to train a graph neural network for the prediction of phase change enthalphy
 
 ## Extracurricular activities
 
