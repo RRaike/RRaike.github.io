@@ -6,7 +6,6 @@ classes: wide
 
 ## Education
 #### MSc in Chemical Engineering @ University of Delaware, 2023 - 2024
-<p style="margin-left: 40px; margin-top: -0.8em; line-height: 0">GPA 4.0</p> 
 - Thesis: Microkinetic modeling of n-butane hydrogenolysis on Ru(0001) in the Vlachos group
 - Dual degree with the KU Leuven
 
