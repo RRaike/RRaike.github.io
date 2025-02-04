@@ -181,6 +181,11 @@ li ol {
   margin-top: 0.5em;
 }
 
+ul li,
+li ul {
+  list-style-type: none;
+}
+
 /*
    Media and embeds
    ========================================================================== */
